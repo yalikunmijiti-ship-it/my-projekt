@@ -27,6 +27,7 @@ namespace MauiAppMessSkizze.ViewModels
         {
             PickPhotoCommand = new Command(async () => await PickPhoto());
             CapturePhotoCommand = new Command(async () => await CapturePhoto());
+            //CapturePhotoCommand = new Command(async () => await CapturePhoto());
         }
 
         private async Task PickPhoto()
