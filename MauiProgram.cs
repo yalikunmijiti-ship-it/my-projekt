@@ -23,6 +23,7 @@ namespace MauiAppMessSkizze
 #if DEBUG
             builder.Logging.AddDebug();
 #endif
+            // Kommentar
             
             return builder.Build();
         }
