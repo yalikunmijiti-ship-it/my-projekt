@@ -24,7 +24,9 @@ namespace MauiAppMessSkizze
             builder.Logging.AddDebug();
 #endif
             // Kommentar
-            
+           // builder.Services.AddSingleton<MainViewModel>();
+            //builder.Services.AddSingleton<MainPage>();
+
             return builder.Build();
         }
     }
