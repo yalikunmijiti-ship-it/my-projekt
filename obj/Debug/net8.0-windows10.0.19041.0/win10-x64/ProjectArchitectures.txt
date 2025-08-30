@@ -1,0 +1,1 @@
+C:\Users\yalik\.NET MAUI Projekten\MauiAppMessSkizze\MauiAppMessSkizze\MauiAppMessSkizze.csproj;x64
