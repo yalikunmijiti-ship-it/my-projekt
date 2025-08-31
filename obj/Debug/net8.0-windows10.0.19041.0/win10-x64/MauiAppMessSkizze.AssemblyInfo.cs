@@ -18,7 +18,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MauiAppMessSkizze")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+d3b5653088ef13596d18022a0525019968aadf31")]
 [assembly: System.Reflection.AssemblyProductAttribute("MauiAppMessSkizze")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MauiAppMessSkizze")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
